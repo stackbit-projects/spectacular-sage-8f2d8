@@ -62,10 +62,7 @@ models:
     label: En
     isList: true
     items:
-      type: model
-      models:
-        - object_6ab3lgnx3b
-        - object_278n389net
+      type: markdown
   eo:
     type: data
     label: Eo
