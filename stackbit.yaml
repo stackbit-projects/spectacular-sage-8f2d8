@@ -67,6 +67,7 @@ models:
       models:
         - object_6ab3lgnx3b
         - object_278n389net
+    folder: /content
   eo:
     type: data
     label: Eo
