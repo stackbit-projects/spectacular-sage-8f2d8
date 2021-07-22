@@ -945,3 +945,4 @@ models:
   about:
     type: page
     label: about
+    folder: /content
