@@ -60,14 +60,12 @@ models:
   en:
     type: data
     label: En
-    file: ''
     isList: true
     items:
       type: model
       models:
         - object_6ab3lgnx3b
         - object_278n389net
-    singleInstance: true
   eo:
     type: data
     label: Eo
